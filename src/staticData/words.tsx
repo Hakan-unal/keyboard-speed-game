@@ -21,7 +21,7 @@
         "oceans",
         "with",
         "advanced",
-        "technology,",
+        "technology",
         "handpicked",
         "team",
         "intrepid",
